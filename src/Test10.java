@@ -1,0 +1,15 @@
+
+public class Test10 {
+	
+	
+	public void m1()
+	{
+		System.out.println("Test10");
+	}
+
+	
+	public void m2()
+	{
+		System.out.println("Test10");
+	}
+}

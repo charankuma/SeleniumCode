@@ -27,7 +27,7 @@ public class Test1 {
 	
 	Test1()
 	{
-		System.out.println("Parent Constructor");
+		System.out.println("Parent asdasf");
 	}
 Test1(int i,String vt)
 {
